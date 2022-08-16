@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BetSportsOdds</string>
+
+    <string name="about2">Bookmakers construct sports betting odds to show what the likely outcome of a game or event is.
+    They also determine how much a gambler can profit from betting on an event at that sportsbook.
+    They are frequently impacted by Vegas odds, particularly in sports.</string>
+
+    <string name="about1">The action of forecasting sports results and putting a wager on the outcome is known as sports betting.
+        The most popular sports to gamble on vary by culture, with association football, American football, basketball, baseball, hockey, track cycling,
+        auto racing, mixed martial arts, and boxing receiving the vast majority of wagers at both the amateur and professional levels.
+        Non-athletic events such as reality show competitions and political elections, as well as non-human contests such as horse racing, greyhound racing,
+        and illegal, underground cockfighting, are all examples of sports betting. It is not commonplace for
+        sports betting websites to accept bets on entertainment events such as the Grammys, Oscars, and Emmys.</string>
+
+    <string name="chapter1">BASKETBALL</string>
+    <string name="topic1">For bets to be active, all games must begin on the planned day (local time). An example is
+If an inaccurate start time is announced on our website, a refund will be issued.
+If the location of a game is changed, existing bets will stand as long as the home team remains.
+labelled as such If the home and away teams for a listed match are switched, bets based on
+the original listing will be null and void
+Unless otherwise noted, all bets on a game include overtime.
+If a game is suspended after the necessary amount of time has been played and not restarted, the game is forfeited.
+a day, then regardless of whether the game is finished later, the score when the
+The betting results will be determined if the game is interrupted.</string>
+    <string name="topic2"></string>
+    <string name="close_dialog" />
+
+
+</resources>
